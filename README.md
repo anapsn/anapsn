@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ana Paula Novais 
 
 - 🌱  atualmente estou aprendendo HTML, CSS e JAVASCRIPT
-- 👩🏻‍🎓  cursando Engenharia da Computação 
+- 👩🏻‍🎓  cursando Sistema de Informação
 
 <div>
   <a href="https://github.com/anapsn">
