@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ana Paula Novais 
 
-- 🌱  atualmente estou aprendendo HTML, CSS e JAVASCRIPT
+- 🌱  atualmente estou aprendendo JAVA, MYSQL
 - 👩🏻‍🎓  cursando Sistema de Informação
 
 <div>
